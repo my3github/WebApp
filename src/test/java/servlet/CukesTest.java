@@ -8,4 +8,5 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({login_junit.class})//,createpage_junit.class})
 public class CukesTest {
 	
+	
 }
